@@ -1,2 +1,1 @@
-## The critical disadvantage
-The X tool is really awesome, there is only one critical disadvantage there - it was not built by me, therefore it should be redone from the ground up.
+Seems like I have a carma issue, because I hate Python, but all of my most famous repo made with it.
