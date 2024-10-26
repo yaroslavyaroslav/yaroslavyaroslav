@@ -1,1 +1,1 @@
-Seems like I have a carma issue, I hate Python, but all of my most famous repo made with it.
+Helping machines to take contol over humanity, and I'm good in it.
